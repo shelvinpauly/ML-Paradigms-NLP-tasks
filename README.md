@@ -22,6 +22,8 @@ This project explores transfer learning techniques like domain adaptation, task 
 - Fine-tuned BERT backbone pretrained on MultiNLI and WikiNER for few-shot SQuAD training
 - Froze backbone and trained task-specific QA head with 10% of SQuAD data
 
+## [Project Report](CMSC828A_Assignment_1__timber___1_.pdf)
+
 ## Results
 
 - Task adaptation outperformed domain adaptation in transfer learning experiments
